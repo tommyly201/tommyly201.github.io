@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hi all!
-date: 2023-05-12 15:53:00-0400
+date: 2023-07-12 15:53:00-0400
 description: hi everyone
 categories: hello-world
 related_posts: false
