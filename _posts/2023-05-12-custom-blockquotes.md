@@ -1,10 +1,10 @@
 ---
 layout: post
-title: a post with custom blockquotes
+title: Hi all!
 date: 2023-05-12 15:53:00-0400
-description: hello world blog post
-categories: sample-posts blockquotes
+description: hi everyone
+categories: hello-world
 giscus_comments: true
 related_posts: false
 ---
-Why is this post not showing?
+I'm thrilled to initiate my very first blog here. Although the exact content that will populate this virtual corner of the internet remains undetermined, it will broadly reflect my ongoing interests in the area of healthcare/bio + ML. These could range from probability/linear algebra theories, machine learning coding techniques, or even personal pastimes like sport and music.
