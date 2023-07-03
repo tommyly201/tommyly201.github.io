@@ -62,7 +62,7 @@
               </li>
               {%- endif %}
 
-              <!-- Other pages -->
+              <!-- Other pages 
               {%- assign sorted_pages = site.pages | sort: "nav_order" -%}
               {%- for p in sorted_pages -%}
               {%- if p.nav and p.autogen == nil -%}
@@ -94,6 +94,13 @@
               {%- endif -%}
               {%- endif -%}
               {% endfor -%}
+                -->
+              <!-- CV -->
+              <li id="show-cv" class="nav-item">
+                <a class="nav-link" target="_blank" href="{{ '/assets/pdf/resume.pdf' | prepend: site.baseurl | prepend: site.url }}">
+                CV
+                </a>
+              </li>
               {%- if site.enable_darkmode %}
 
               <!-- Toogle theme mode -->
