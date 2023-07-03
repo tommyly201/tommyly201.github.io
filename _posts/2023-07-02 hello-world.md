@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello World
+title: Welcome everyone
 date: 2023-07-02 11:59:00-0400
 description: first blog post ever
 categories: hello-world
