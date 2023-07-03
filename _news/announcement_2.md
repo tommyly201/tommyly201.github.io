@@ -1,12 +1,12 @@
 ---
 layout: post
 #title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+date: 2023-06-12 16:11:00-0400
 inline: true
 related_posts: false
 ---
 
-announcement [2](www.google.com)
+I started work at Columbia University Irving Medical Center on a project that predict genetic expression using deep learning.
 
 <!-- Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
 
