@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hello World
-date: 2023-07-03 11:59:00-0400
+date: 2023-07-02 11:59:00-0400
 categories: hello-world
 related_posts: false
 ---
