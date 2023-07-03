@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-I help [OneFact Foundation](https://onefact.org/ scaling [ClinicalBert AI models](https://arxiv.org/abs/1904.05342) to [NIH
+I help [OneFact Foundation](https://onefact.org) scaling [ClinicalBert AI models](https://arxiv.org/abs/1904.05342) to [NIH
 datasets](https://www.researchallofus.org) spanning several disease areas
