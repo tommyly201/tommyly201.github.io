@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Greetings! My name is Tommy Ly (pronounced `l-ee`) and I'm currently working towards obtaining my second bachelor's degree in Computer Science from Columbia University. My primary goal is to work in the `ML + healthcare/biotech area`.
+Greetings! My name is Tommy Ly (pronounced l-ee) and I'm currently working towards obtaining my second bachelor's degree in Computer Science from Columbia University. My primary goal is to work in the `ML + healthcare/biotech` area.
 
 I worked in operations and data analytics at **[Uber Technologies](https://www.uber.com/us/en/about/)** for 4.5 years across Vietnam, Singapore, and New York City, and had the opportunity to be a part of Uber's expansion journey from just 5,000 employees in 2016 to its listing into a public company until 2020.
 
