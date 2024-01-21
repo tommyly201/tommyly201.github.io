@@ -23,6 +23,6 @@ Greetings! My name is Tommy Ly (pronounced l-ee) and I'm currently working towar
 
 Similar to many others, the year 2020 brought a significant change in my life, and pushed me to reassess what I truly value. This reflection led me to the decision of pursuing another degree at **[Columbia University](https://www.columbia.edu/)**. I spent the summer of 2022 working at the **[New York Genome Center](https://www.nygenome.org/)**, followed by the summer of 2023 working on gene regulation at the **[Columbia University Irving Medical Center - Rabadan Lab](https://www.cuimc.columbia.edu/)**. 
 
-Recently, I've been doing research in computational neuroscience at **[Paninski Lab](https://zuckermaninstitute.columbia.edu/liam-paninski-phd)** on the topic of distillation and pose estimation.
+Recently, I've been doing research in computational neuroscience at the **[Zuckerman Institute - Paninski Lab](https://zuckermaninstitute.columbia.edu/liam-paninski-phd)** on pose estimation and neural decoding.
 
 Fun fact: I'm been doing various triathlon races, and love the comedy scene in New York City. I enjoy film score and rock n roll music to focus, enjoy watching **[American classic movies](https://www.imdb.com/list/ls074808109/)** during my free time!
