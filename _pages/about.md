@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Greetings! My name is Tommy Ly (pronounced l-ee) and I'm currently working towards obtaining my second bachelor's degree (read why [here!](https://substack.com/home/post/p-153888551)) in computer science & statistics from Columbia University. My primary goal is to work in the `ML + neuroscience/healthcare` area.
+Greetings! I'm currently working towards obtaining my second bachelor's degree (read why [here!](https://substack.com/home/post/p-153888551)) in computer science & statistics from Columbia University. My primary goal is to work in the `ML + neuroscience/healthcare` area.
 
 I spent the summer of 2022 working at the **[New York Genome Center](https://www.nygenome.org/labs/technology-innovation-lab/#overview)**, followed by the summer of 2023 working on gene regulation at the **[Columbia University Irving Medical Center](https://www.rabadanlab.org/)**. 
 
