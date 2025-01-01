@@ -1,8 +1,9 @@
 ---
 layout: redirect
-permalink: /blog/
-redirect: https://substack.com/@tommyly
 title: Blog
+permalink: /blog/
+redirect: https://tommyly.substack.com/
 nav: true
 nav_order: 2
+redirect_to: https://tommyly.substack.com/
 ---

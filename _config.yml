@@ -119,25 +119,25 @@ google_site_verification:  # your google-site-verification ID (Google Search Con
 bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 
 # -----------------------------------------------------------------------------
-# Blog Redirect Settings
+# Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Blog # Will be displayed in navigation
-blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: # Removed since we're redirecting
-blog_url: https://substack.com/@tommyly # Your Substack URL
-blog_target: _blank # Opens in new window
+blog_name: Blog
+blog_nav_title: blog
+blog_description: 
+permalink: none
 
-# Disable all internal blog functionality since we're redirecting to Substack
-permalink: # Removed
+# Completely disable blog-related features
 pagination:
   enabled: false
 related_blog_posts:
   enabled: false
 latest_posts:
   enabled: false
+  scrollable: false
+  limit: 0
 
-# Remove all blog-related collections and features
+# Remove all blog collections
 collections:
   news:
     defaults:
@@ -148,17 +148,14 @@ collections:
     output: true
     permalink: /projects/:path/
 
-# Remove commenting systems
-giscus:
-  enabled: false
-disqus_shortname: 
-
-# Remove external sources since we're doing a direct redirect
-external_sources: []
-
-# Remove display tags and categories since we won't be using them
+# Disable display tags
 display_tags: []
 display_categories: []
+
+# Disable comments
+giscus:
+  enabled: false
+disqus_shortname:
 
 # # -----------------------------------------------------------------------------
 # # Blog
