@@ -6,7 +6,7 @@ inline: true
 related_posts: false
 ---
 
-I started work at Columbia University Irving Medical Center on a project that predict genetic expression using [Deepmind's attention network in Pytorch](https://github.com/lucidrains/enformer-pytorch).
+I started work at Columbia University Irving Medical Center on a project on gene expression
 
 <!-- Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
 

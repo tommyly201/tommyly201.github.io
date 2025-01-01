@@ -25,4 +25,4 @@ Similar to many others, the year 2020 brought a significant change in my life, a
 
 Recently, I've been doing research in computational neuroscience at the **[Zuckerman Institute - Paninski Lab](https://zuckermaninstitute.columbia.edu/liam-paninski-phd)** on pose estimation and neural decoding.
 
-Fun fact: I'm been doing various triathlon races, and love the comedy scene in New York City. I enjoy film score, rock n roll music, and enjoy watching **[American classic movies](https://www.imdb.com/list/ls074808109/)** during my free time!
+Fun fact: I'm been doing various triathlon races, and love the comedy scene in New York City. I enjoy film score, rock n roll music, and enjoy watching American classic movies during my free time!
