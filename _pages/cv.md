@@ -1,9 +1,9 @@
 ---
 layout: redirect
-permalink: /cv/
-redirect: /assets/pdf/Tommy_CurriculumVitae.pdf
-redirect_to: /assets/pdf/Tommy_CurriculumVitae.pdf
 title: CV
+permalink: /cv/
+redirect: https://tommyly.net/assets/pdf/Tommy_CurriculumVitae.pdf
+redirect_to: https://tommyly.net/assets/pdf/Tommy_CurriculumVitae.pdf
 nav: true
 nav_order: 3
 ---
