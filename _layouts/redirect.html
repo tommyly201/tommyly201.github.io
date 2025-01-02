@@ -18,14 +18,18 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Redirecting...</title>
-<meta http-equiv="refresh" content="0; URL={{ page.redirect }}">
-<script>
-    window.location.href = "{{ page.redirect }}";
-</script>
+<title>Debug Redirect</title>
 </head>
 <body>
-<h1>Redirecting...</h1>
-<p>If you are not redirected automatically, <a href="{{ page.redirect }}">click here</a>.</p>
+<h1>Debug Information:</h1>
+<p>Attempting to redirect to: {{ page.redirect }}</p>
+<p>Page URL: {{ page.url }}</p>
+<p>Page Title: {{ page.title }}</p>
+<script>
+    console.log("Redirect URL:", "{{ page.redirect }}");
+    setTimeout(function() {
+        window.location.href = "{{ page.redirect }}";
+    }, 3000);
+</script>
 </body>
 </html>
